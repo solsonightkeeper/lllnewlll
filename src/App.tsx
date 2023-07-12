@@ -46,7 +46,7 @@ function App() {
       <Page>
         <Header />
         <Main>
-          <Container maxWidth="xs">
+          <Container maxWidth="md">
             <GridContainer>
               <GridItem xl={3}>
                 <Product />
