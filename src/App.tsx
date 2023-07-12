@@ -48,28 +48,28 @@ function App() {
         <Main>
           <Container maxWidth="md">
             <GridContainer>
-              <GridItem xl={3}>
+              <GridItem xl={3} md={6} sm={12}>
                 <Product />
               </GridItem>
-              <GridItem xl={3}>
+              <GridItem xl={3} md={6} sm={12}>
                 <Product />
               </GridItem>
-              <GridItem xl={3}>
+              <GridItem xl={3} md={6} sm={12}>
                 <Product />
               </GridItem>
-              <GridItem xl={3}>
+              <GridItem xl={3} md={6} sm={12}>
                 <Product />
               </GridItem>
-              <GridItem xl={6}>
+              <GridItem xl={6} md={6} sm={12}>
                 <Product />
               </GridItem>
-              <GridItem xl={6}>
+              <GridItem xl={6} md={6} sm={12}>
                 <Product />
               </GridItem>
-              <GridItem xl={3}>
+              <GridItem xl={3} md={6} sm={12}>
                 <Product />
               </GridItem>
-              <GridItem xl={3}>
+              <GridItem xl={3} md={6} sm={12}>
                 <Product />
               </GridItem>
             </GridContainer>
